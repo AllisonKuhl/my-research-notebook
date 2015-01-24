@@ -1,0 +1,19 @@
+exercise 1 the dream case 
+
+Allison here, reporting back on module 2, exercise 1: the Dream Case. 
+
+the epigraphic database was interesting
+unfortunately my latin isn't really that good
+I took it in first year but its been a while
+
+so I tried searching by occupation
+I searched "poeta" and there were only a few entries. I downloaded the spreadsheet and saved it in a new folder
+http://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&land=&fo_antik=&fo_modern=&literatur=&dat_jahr_a=&dat_jahr_e=&atext1=poeta&bool=AND&atext2=&sort=hd_nr&anzahl=20
+
+I also searched "Agricola" which seemed mostly to return people named Agricola and not farmers, and "figlin*" as suggested
+figlin returned lots of "ex figlinis" which means what, out of bricks? i dunno.
+http://edh-www.adw.uni-heidelberg.de/inschrift/suche?hd_nr=&land=&fo_antik=&fo_modern=&literatur=&dat_jahr_a=&dat_jahr_e=&atext1=figlin*&bool=AND&atext2=&sort=hd_nr&anzahl=20
+
+I also searched for my last name in the war graves thing but there were only 2 kuhls who died. I suppose that's a good thing. I don't recognize the names anyway. 
+
+http://www.cwgc.org/find-war-dead.aspx?cpage=1
