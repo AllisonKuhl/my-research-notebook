@@ -1,0 +1,15 @@
+wget
+
+http://www.gnu.org/software/wget/manual/wget.html
+
+‘-B URL’
+‘--base=URL’
+Resolves relative links using URL as the point of reference, when reading links from an HTML file specified via the ‘-i’/‘--input-file’ option (together with ‘--force-html’, or when the input file was fetched remotely from a server describing it as HTML). This is equivalent to the presence of a BASE tag in the HTML input file, with URL as the value for the href attribute.
+
+For instance, if you specify ‘http://foo/bar/a.html’ for URL, and Wget reads ‘../baz/b.html’ from the input file, it would be resolved to ‘http://foo/baz/b.html’.
+
+Interesting, interesting.
+
+I don't get it. 
+
+:C
