@@ -1,0 +1,46 @@
+how'd they do that  -notes
+
+the notes I took while watching the video I took by hand becaues that is easier. 
+
+This is a reflection then I guess.
+
+okay. 
+
+What I liked about the video is that it explained rather clearly the steps of what to do for a digital project. 
+
+like. 
+1. get sources
+2. wrangle them
+3. present them
+and bam it's done. 
+Or additionally...
+4. ???
+5. Profit. 
+or whatever.
+
+But to stay on the topic of wrangling data...
+
+well... I think part of it is just decided what you want to use to present your data and then get it into the form you need for that. So that's partly the first step I guess. 
+
+What do I want to use my data for? 
+
+Then the step is organizing it... I think the video made clear to me the importance of making a semantically rich organization of whatever it is I'm doing. Then you can transform it into all these different things they showed us. 
+
+I think I might need to rewatch it because I kept zoning out tho....I don't even know because I watched it last night too and I had the same problem. On the weekend. I'll have time then. I can hope. focus focus
+
+Anyway... I liked how she framed reverse engineering as critically examining the text. Normally I would have just looked at a project like that and have been "that's cool", but this made me really think of the choices inherit in producing the thing. It is things that I also need to think about when I make my thing. "thing" What thing? ugh. 
+
+aah who am I talking to?
+
+anyway I felt like we've talked before about the benefits of digital humanities because it makes inherit our assumptions, the assumptions which we as historians always have to make. So I think the video tied in well with that. 
+
+Looking at her post....
+http://miriamposner.com/blog/how-did-they-make-that/
+
+I kind of want to learn how to use sketchup better but I can't think of any project to use it for. MALLET looks kind of interesting. 
+
+anyway I'll rewatch it again when I have time and pay better attention to the wrangling data. 
+I think I still have trouble thinking how to transform this undefinable mass of data into something actually usable. Just add xml? To all that? 
+
+Next time i will be more diligent. I must be! 
+
