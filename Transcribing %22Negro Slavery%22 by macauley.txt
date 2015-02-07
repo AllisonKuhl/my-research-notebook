@@ -1,0 +1,36 @@
+Transcribing "Negro Slavery" by macauley
+
+the name is vaguely familiar. Where did I hear from this guy before? was he in India or something? 
+
+whatever. 
+
+ok.
+
+So I picked a page and random and I don't really know what's going on but whatever I'm transcribing it. 
+http://www.recoveredhistories.org/pamphlet1.php?catid=66
+
+(at first I thought we had to take a half-hour break after transcribing to rest our eyes and I'm like cool, finally a break
+but turns out its only 30 seconds. so I better keep working. lol) 
+never give up! Onwards and upwards! For the glory of God!
+
+minor questions - 
+things I am wondering but feel are too trivial to bother people with. 
+(i'll have to search it up on google later maybe)
+
+Things that are in italics - I've been putting it in <i> tags. Originally I thought maybe use <em> because that's how they do italics in html5, but I thought <i> would be more semantically correct. Because it's not for emphasis it's actually italics because the text itself is in italics. I think that's the correct use. 
+
+there is a number at one point. Should I enclose it in <li> tags? It also seems to be a header... but like, <h6> maybe. I dunno. It's not much of a list. I just put it in a paragraph tag. Hopefully that okay. 
+
+Also when there is a line break that divides a word I've been including the hyphen but I wonder if that's necesary. 
+Anyway I'm halfway done so back to work. 
+
+done transcriping.
+
+which reminds me
+
+I put for the page number the page of the file and not the actual book. Hope that's right. 
+
+
+
+
+
