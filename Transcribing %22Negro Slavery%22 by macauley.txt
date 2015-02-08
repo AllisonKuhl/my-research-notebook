@@ -19,12 +19,16 @@ things I am wondering but feel are too trivial to bother people with.
 
 Things that are in italics - I've been putting it in <i> tags. Originally I thought maybe use <em> because that's how they do italics in html5, but I thought <i> would be more semantically correct. Because it's not for emphasis it's actually italics because the text itself is in italics. I think that's the correct use. 
 
-there is a number at one point. Should I enclose it in <li> tags? It also seems to be a header... but like, <h6> maybe. I dunno. It's not much of a list. I just put it in a paragraph tag. Hopefully that okay. 
+<UPDATE> I looked at that TEI handout we got linked to. 
+It says to do italics like so. <hi rend= "italic"> italics here </hi>
+that seems like a lot of unnecessary words tho. Why not just use <i>? its best to be concise. </UPDATE>
+
+there is a number at one point. Should I enclose it in <li> tags? It also seems to be a header... but like, <h6> maybe. I dunno. It's not much of a list. I just put it in a paragraph tag. whatever.
 
 Also when there is a line break that divides a word I've been including the hyphen but I wonder if that's necesary. 
 Anyway I'm halfway done so back to work. 
 
-done transcriping.
+done transcribing.
 
 which reminds me
 
