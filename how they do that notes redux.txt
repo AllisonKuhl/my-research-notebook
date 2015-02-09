@@ -1,0 +1,31 @@
+how they do that notes redux
+
+okay this time I will pay better attention to that actually how they did that part. 
+
+holocaust thing
+-excerpts 
+-the idea of choosing and forming a narrative
+organized by individual, tells a personal story
+scalar. what is it? i missed it
+
+african american travel journals
+-go through many memoirs, autobiographies, etc. 
+of famous people only
+avaliable on web, images on web
+put into an excel file, 
+put in name, location, date etc. 
+viewshare - has nice map program apparantly
+
+kindred britain
+mysql database or something weird like that
+i've always wanted to learn that
+one man's vision (formed initial database)
+
+welp, I think I understood the video a bit better this time. 
+I was concious this time. 
+
+anyway it's very interesting, yes.
+it has given me much to think about when looking at dataprojects
+i will not take them for granted
+I will think on it more.
+
