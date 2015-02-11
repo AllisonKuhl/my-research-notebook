@@ -1,0 +1,88 @@
+Regex Exercise
+
+To Whom It May Concern 
+
+It is 10:30 PM. I am writing this, naturally, in front of my computer. I sit in the dim light of my office. Outside it is dark - the day is dead.
+
+And yet only how many hours ago, I was outside, staring at a sky which fluttered between light and darkness in the balmy cold, my jacket unzipped, feet planted in slush, thinking idle, pleasant thoughts. 
+
+And even earlier, seeing the otrain pull away and having time to spare, I walked alongside it, marvelling at this world which until then I had hithertoo roared by while staring at the dripping stone walls of the otrain. But now I was above it all, briskly walking through a brave new world, alive beneath a sunny sky, and happy in my idle thoughts. 
+
+And now again I slip into idle thoughts - it is very pleasant - and yet I must set to work on the task I have resolved to do now. But as I work, now so late at night, the burdens of my day now float around me, hover at the edges of my conciousness, memories of a sunny sky (now gone), a triumphant journey (now finished) and long hours at the library, researching, doing work (still incomplete).
+
+But what was it I set out to do? Regex. Yes. I cannot let my day be solely idleness. 
+
+-attempted to copy and paste thing into notepad++ 
+-computer froze
+-ugh
+-took unnecesarily long time
+
+Somehow, it seems, I have fallen behind schedule. I am running a race up the down elevator. That is what school is like, it seems. I can't figure out if I am simply bad at managing time or whether time itself is to blame. Time is a slippery character. You can't trust Time. Time slips from my hands like sand and I grasp at it, grasp at it, but it flows away between the cracks and disappears in a whirlwind. Why can't I hold it? Even now it is slipping away from me. Because I am wasting it! Wasting it! Get to work! 
+
+I sometimes imagine what it would be like if I could simply stop time. The world would freeze. I alone would move. I've seen it happen before on tv. And then I could work, work, finish all my projects. I'd read everything there is to read on a topic. I'd become an expert. Then I'd write my paper and it would be perfect. Time doesn't work like that, however. I know what it's like to have endless time. That's summer. I only get more depressed. 
+
+I wish I had more time; then I could spend all my time pleasantly wishing for things and not have wasted like my whole night like i'm doing now ugh. 
+
+-turns out we only need like a quater of the text
+why'd i even copy and paste it all then. 
+
+i bet
+that I could totally write a python program to do regex stuff
+i mean like find and replace
+it would be a good challenge
+maybe over reading week
+
+but i should focus now
+and learn how to use regex
+
+there are a lot of instructions
+i think i'll try not reading the instructions
+and see how that goes
+
+(although I've read the workflow so I know the general strategy.)
+kk.
+
+...i dont know what to do.
+i guess i will look at the instructions
+ONLY BECAUSE ITS LATE
+i could totally do it on my own
+baka
+
+i'll do a review of the tutorial
+made notes.
+do I now have enough knowledge to overcome this challenge on my own?
+the problem is how do you find the beginning of a line? o.o
+^  marks the start of a string but how to get only the ones I want?
+
+i will look at the instructions
+ah
+how does he come up with these things?
+but I will not falter. 
+someday I too will be trained in the art of regexfu
+although i will point out I dont' remember learnin that .+ returns any amount of text as he claims, but maybe I wasn't paying close enough attention.
+the secret is the "to" it is the only one to appear in all the lines we want
+that's the secret. 
+divide and conquer
+i don't even know how to describe it
+but like, find the element in common, the mode of difference
+that's the secret
+
+i will try it
+wow
+it all disappeared.
+abort mission! CTL-Z!
+
+oh i forgot the parentheses.
+typical
+
+so I saw this meme today, it's got Jafar, right, and he's real close and it says "Janear" and then another one with him farther away and it says "Jafar" haha get it, and then he's on the titanic and it says "Ja wherever you are"! haha I am cracking up. 
+XD XD XD XD
+I've had that song stuck in my head all day because of that.
+
+oh yeah there were articles I were supposed to read for this module too. I started but I don't think I ever finished....
+
+-how to remove whitespace
+lol im tired
+
+i think i need to sleep now
+goodnight
