@@ -1,0 +1,67 @@
+Regex Exercise part 2
+
+Okay it's been a while since I've worked on this but I must. 
+reading week is nearly over.
+
+so to recap. 
+
+i have deleted most of the extraneous text, but there is still blank spaces. I need to figure out how to delete this and then fix up the lines which still have a ~ in front of them. 
+
+so I did something and it worked.
+
+^[^~]
+
+So similar to what the instructions had before, it deletes all beginnings of line that do not start with ~. 
+how ^ is different than \n I do not know. \n does not seem to do much on my browser.
+
+ Welp, whatever works I guess.
+
+Onwards!
+
+okay. now to find the year and then delete any extraneous numbers at the end of each line. a year has four numbers, so we can specifically look for that. 
+
+[0-9]{4}
+
+and we want to delete the comma and the numbers after it. 
+
+so thus, group the different sections, keep what the group you want, have away with the rest.
+
+so I thought I could do \2 for replace to just get the second group but it mysteriously does not work
+
+it's because I forgot to include a space in the 2 group so it ended up all squished together with the day. 
+
+i like regex actually. 
+it's pretty fun
+
+anyway moving along.
+
+i will guess what I have to do next without looking. 
+
+get rid of the "to", n'est pas?
+
+I'll try it on my own.
+
+so what I need to do is get rid of the space in front of to and add a comma. 
+
+at first it didn't work, but it did when I put them in parentheses
+
+oh well the next step was actually to remove the tilde but whatever 
+
+I don't gotta play by your rules!! SIC SEMPER TYRANNIS!
+
+so I'll remove the tilde now. I don't think any tildes will show up elsewhere so I'll just put in ~ and replace with nothing
+
+and bang.
+
+okay final task, I will do it by the book.
+delete all the additional commas
+http://youtu.be/CniafOgpiW8
+
+and done 
+it is a csv now
+yay.
+
+date: February 21st
+time: 10:56 PM
+
+now on to OpenRefine!
