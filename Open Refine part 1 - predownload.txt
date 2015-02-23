@@ -1,0 +1,39 @@
+Open Refine part 1 - predownload
+
+so although a long time since this was due, nevertheless driven by duty I must do it all the same
+
+watching the movies on the website
+because we're supposed to apparantly. 
+http://openrefine.org/
+
+
+aw man. 
+it's interesting and simple
+but like, this video is making me fall asleep because im so tired....
+
+goodnight world.
+
+it is now the next day. 
+
+I will continue watching the videos.
+
+things to remember from the videos:
+video 1
+can cluster themes thematically
+try and match together things which mean the same thing
+can be different even if an extra space is added
+eliminate these differences!
+standerdize the data  .... standardize 
+
+video 2
+can easily seperate rows and clean up data
+use things like ** to indicate what you want
+
+video 3
+fancy json stuff wat
+url fetching feature
+can pull info from other websites to add columns
+
+google refine: it's preetty amazing.
+
+

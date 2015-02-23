@@ -1,0 +1,26 @@
+XML article - what is it and why should we care?
+
+http://dh.obdurodon.org/what-is-xml.xhtml
+
+xml focuses on the _structure_ of the text, the semantic meaning of the text, just like old bob taught me in that online html class
+
+spaces - makes language into a stream of words, not letters 
+focuses thus on the _meaning_ instead of phonetics or letter sounds or whatever
+deep.
+
+xml is a hierarchy
+well, in the same way html is a hiearchy
+there is a <section> and then <p> within that as a branch, each has to close itself off. </p> </section>
+
+descriptive mark-up, not presentational or procedural, focus on meaning and not what it will look like in the end or what it will do with the text (in that way, it is similar to html?)
+
+schema
+do you make up your own schema?
+but the key is to use it consistantly in a standardized form
+
+come up with schema before xmling document
+do a document analysis then begin markup
+why do you want to mark it up in the first place?
+determine that first
+
+ok neat.
