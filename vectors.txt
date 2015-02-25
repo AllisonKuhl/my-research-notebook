@@ -1,0 +1,7 @@
+vectors
+
+what is it?
+http://sonic.wikia.com/wiki/Vector_the_Crocodile
+
+
+In R, a list of values
