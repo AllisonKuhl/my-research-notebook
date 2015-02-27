@@ -1,5 +1,7 @@
 R
 
+http://www.viciouspotato.net/
+
 x <- assigns variables
 help(functionname) describes function
 c(1,2,3) combines items into vector
@@ -17,4 +19,4 @@ names(vector) <- c("name1", "name2")
 P. S. What's a pirates favourite letter?
 
 You'd think it'd be R, but it's actually the C. 
-HAHAHAhahaha.
+AHAHAHAhahaha.

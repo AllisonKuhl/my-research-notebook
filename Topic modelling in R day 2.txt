@@ -1,0 +1,28 @@
+Topic modelling in R day 2
+
+in unrelated news, I found my fountain pen again! 
+many years ago, I had a dream. I was going to write and ink comics and make beautiful calligraphy and so on and so forth, so I bought some special ink (and it does not come cheap either) for this old fountain pen we had, which I had for about a day or two before I misplaced and it was gone! 
+Gone! Vanished! I could not find it again! Just like all my dreams and hopes! 
+
+but here it is again. And it took some fiddling, but it is working again and I have two more packs of ink before it runs out. 
+
+But anyway, school. 
+
+So I thought I'd do R because who doesn't like learning new programming languages? 
+
+But first of all, what is R? 
+
+http://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf 
+
+It's a different implentation of S! Ha, like that helps! 
+
+anyway, skimming over the tutorials...
+but whatever the best way to learn is to do!
+
+lol copy and pasted first part: result - 
+error error 
+error 
+package rJava could not be loaded
+*.*
+well i won't let this get me down.
+I'll try something different later but I need to work on some other stuff now so I'll be back.
