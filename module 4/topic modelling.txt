@@ -1,0 +1,30 @@
+topic modelling
+
+okay, so exersice one is network analyse, not sure if I need that,  so I'll move on, and next is topic modelling, so why not try that
+
+yes why not.
+
+okay, so I finished, now for my report!
+
+results
+1. 	states government united british colonies america make day act family
+2. 	mr time company west north gentlemen give meeting john late
+3. 	town young esq evening long week learn members duke expected
+4. 	land south colony emigration ditto number miles persons wales emigrants
+5. 	made bill sir lord general fort royal army subject enemy
+6. 	country state part year years canada great york upper place
+7. 	kingdom ship american great inform passengers ships houses sailed march
+8. 	present great house means money made good public society labour
+9. 	men indians st general arrived inform left americans letter received
+10. 	king chief people captain vessel natives crew man son port
+
+but what happens if I change the amount of topics? Say I only did 2? The two great themes of the colonial newspaper database.
+
+results:
+1. 	kingdom state general place inform men mr river town canada
+2. 	country mr time land government states south people united good
+
+it is a bit different. 
+
+i suppose there must be some reason and profound connections I can make from this but I can't think of anything right now.
+I'll sleep on it.

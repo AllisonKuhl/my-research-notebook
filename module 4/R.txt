@@ -1,0 +1,22 @@
+R
+
+http://www.viciouspotato.net/
+
+x <- assigns variables
+help(functionname) describes function
+c(1,2,3) combines items into vector
+vector - I think it's like an array or list or that kind of thing
+barplot(vector) makes a bar plot
+can name vector values
+names(vector) <- c("name1", "name2")
+*note* indices start at 1 (weird)
+
+
+
+
+
+
+P. S. What's a pirates favourite letter?
+
+You'd think it'd be R, but it's actually the C. 
+AHAHAHAhahaha.

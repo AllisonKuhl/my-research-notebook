@@ -1,0 +1,23 @@
+Topic modelling in R day 1
+
+so moving on to the next exercise!
+
+For today... I'm a bit lacking in energy
+But at the very least, I'll download the stuff, and begin to work on the tutorial. 
+
+oooh look i can earn badges. C: 
+
+does not use = to asign variables but uses == for equal anyway hm but what do I know the = must be reserved for something else.
+
+(hopefully I'm downloading it alright, my eyes kind of glazed over... did I hit the right buttons?)
+
+do i download desktop or server edition? Since I don't know the difference I'll just do the first.
+
+anyway back to the tutorial
+It's pretty fun! :) 
+
+plus i got a badge. c:
+
+alright I finished the first 2 chapters of the tutorial and I think I will call it a day for now. 
+
+more tomorrow!
