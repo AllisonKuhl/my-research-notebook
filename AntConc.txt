@@ -1,0 +1,25 @@
+AntConc
+
+http://hfroehli.ch/workshops/getting-started-with-antconc/
+
+I wonder why is it called AntConc?
+
+Anyway corpus linguistics brings me way back to my first year when I took applied linguistics and we talked about it, ah, what warm nostalgic memories, it makes me feel young and happy
+again
+
+so downloading antconc now
+
+meanwhile, as it's downloading
+https://www.youtube.com/watch?v=A5YqkHkgzrY
+
+but really what do ants have to do with anything? And why are we conking them?
+
+ok right I should start this now
+
+antconc - uses txt files unicode(UTF-8)
+
+seems the most difficult part of this is coming up with what to search for
+
+there's a lot of connect-the-dot analysis you have to do on your own
+
+I'll think about it
