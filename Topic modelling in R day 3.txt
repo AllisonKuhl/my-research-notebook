@@ -1,6 +1,6 @@
 Topic modelling in R day 3
 
-setwd("C:\\Users\\Allison.FamilyPC\\Documents\\R")
+setwd("C:\\Users\\Allison.FamilyPC\\Documents\\Datamining\\R-exercise")
 # give yourself as much memory as you've got
 options(java.parameters = "-Xmx5120m")
 #install.packages('rJava')
