@@ -1,0 +1,30 @@
+.Project timespans
+
+So I'm currently downloading stuff from Canadiana
+
+the search was for "lutheran" up to the year 1900
+
+Should I make the time period smaller? It's taking like forever to download. 
+
+Maybe in 50 degree intervals? So up to 1850 first? I am assuming there wouldn't be a lot of stuff in the years before that, like, the 18th century. Maybe there is? I should check.
+
+Something to think about
+
+Actually I think I will do it by decade. 
+
+even if that's too small I can add stuff together
+
+...it's still taking a long time to download though... my computer's so slow. :P
+
+so i figured out what was wrong with it. 
+I think it was downloading all the stuff from previous downloads too which is why it went on and on and on and on. 
+
+but I deleted the old ones and started a new one so it should be quicker now. :)
+
+Right now I'm doing it in 25 year intervals. I feel that's a bit arbitrary? But 10 years you hardly get anything.
+
+up to 1850 there will be repeats, but from then i searched 1851 to avoid repeats
+
+I feel like there must be a quicker way to go through each time period instead of manually changing it? 
+
+Like a loop or something? but I don't know this programming language.

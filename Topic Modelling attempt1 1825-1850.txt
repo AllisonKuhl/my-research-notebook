@@ -1,0 +1,35 @@
+Topic Modelling attempt1 1825-1850
+
+So I just did a prelimary run of the document through the topic modelling tool. 
+
+Here's what I got
+
+1. de es la le ou pages en se du ca
+
+2. mr bill read house act time ordered committee day order
+
+3. tie te bc ed ad lie st er lis tlie
+
+4. report referred committee petition bill address excellency house council presented
+
+5. john petition st district road praying county james township william
+
+6. province majesty canada year government general governor act made law
+
+7. il ii ti li ut iii ai tu flic ille 
+
+8. te ta cf ail lie tise god bis ho ai
+
+9. church people bis great bas man men state country religion 
+
+10. land river north miles st. part side island country water
+
+So what does this tell us? It seems a major theme of most of these documents have to do with government and is legal things, especially 2, 5, and 6. 
+
+Another big topic seems to be nonsense words. In 1, I think it's mainly french stop words which its not ignoring because it's a different language. Looking briefly at the file I noticed a bunch of the stuff was in French. But the tool can't really distinguish that maybe. Other nonsense words I really don't know. I think it's just messy text. How do I clean it up? I tried using open refine earlier but it was really slow, so I'll try again later. 
+
+9 is the most excplicitly religious. Yet it doesn't talk about God as such, but mostly churches and people and the state. 
+
+10 is mostly geographical terms. 
+
+So what does that tell us? I will have to think about it. 
